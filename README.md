@@ -8,7 +8,8 @@ Use the arrow keys to control the snake and eat as many apples as possible witho
 
 ## Play Online
 
-You can play the game online at .
+You can play the game online at https://snake-self-eight.vercel.app.
+
 
 ## Contributing
 
